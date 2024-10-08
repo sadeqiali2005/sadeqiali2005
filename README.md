@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ali Sadeqi @sadeqiali2005
+- 👀 I’m interested in Teaching & Programming
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking to collaborate on Teaching Assistant Projects
+- 📫 How to reach me sadeqiali2005@gmail.com
+- 📅 It's October 8, 2024 and I'm starting...
